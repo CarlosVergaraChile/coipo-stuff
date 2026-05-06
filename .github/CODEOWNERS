@@ -1,0 +1,7 @@
+* @CarlosVergaraChile
+
+# Specific ownership
+/src/api/* @CarlosVergaraChile
+/src/upload/* @CarlosVergaraChile
+/src/security/* @CarlosVergaraChile
+/tests/* @CarlosVergaraChile
